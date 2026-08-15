@@ -1,1 +1,13 @@
-# Hi, I'm Anuka! 🎓 II Year ECE Student at KSIT Bangalore 🌱 Learning: DSA | Python | Embedded Systems | Git 🎯 Goal: Texas Instruments | Qualcomm | Bosch | DRDO ## Projects I Am Building - IoT Weather Station - Coming Soon - PID Line Follower Robot - Coming Soon - FPGA Digital Lock - Coming Soon ## Skills I Am Learning - C Language - Python - Arduino and ESP32 - DSA
+# Hi, I'm Anuka!
+🎓 II Year ECE Student at KSIT Bangalore 
+🌱 Learning: DSA | Python | Embedded Systems | Git 
+🎯 Goal: Texas Instruments | Qualcomm | Bosch | DRDO 
+## Projects I Am Building 
+- IoT Weather Station - Coming Soon
+-  PID Line Follower Robot- Coming Soon
+- FPGA Digital Lock - Coming Soon
+  ## Skills I Am Learning
+   - C Language
+   - Python
+   - Arduino and ESP32
+   - DSA
